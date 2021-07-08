@@ -1,21 +1,17 @@
-# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
+# <a href="https://github.com/SachitaPatel/SPChatbotStart" target="_blank">SP Order Bot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+I got the user interface for the web from a Mobile Application Development Course Assignment.
 
 To run:
 
 1. The first time run `npm install`
 2. Press ctrl-f5 while your focus is in one of the files that starts with a number and is all lower case.
 
-## Assignment 1
+## ChatBotStart
 
-Create an order bot for your favourite food. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
+This application is to create an order bot for your favourite food.There are two items Burrito and Chipotle in the menu.The menu item has size and toppings.After size and toppings are added, up-sell item like tortilla chips and drink can be added.On the selection of the favourite food item, size and upsell items, total amount to be paid for the order is calculated.The customer is informed about the total amount that needs to be paid and estimated delivery time.
 
-### Marking
+### Enhancement
 
-basic order for an item in a zip (65%)
-2nd or 3rd item (up to 10%)
-up-sell item other than drinks (up to 10%)
-estimated price or ability for someone in the store to see the orders with their phone (up to 15%)
-
-There is a brief [presentation here](EventsAndObjects.pdf).
+The validations needs to be added if customer enters invalid infromation.
+The online payment link should be added that redirects to the paypal account.
