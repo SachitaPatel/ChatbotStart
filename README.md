@@ -1,5 +1,6 @@
 # <a href="https://github.com/SachitaPatel/SPChatbotStart" target="_blank">Sachita Patel Order Bot</a>
 
+I forked this repository to get all the base files frpm Richard's respository.
 I got the user interface for the web from a Mobile Application Development Course Assignment.
 
 ## SPChatBotStart
